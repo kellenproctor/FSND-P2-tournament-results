@@ -4,7 +4,6 @@ Common code for the Relational Databases and Full Stack Fundamentals courses
 from Udacity.
 
 Project 2 additions by Kellen Proctor on 13 July 2015
-=============
 
 ####INTRODUCTION:
 Tournament Results contains a database schema with tables tp record players in
