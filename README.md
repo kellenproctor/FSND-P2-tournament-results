@@ -1,11 +1,11 @@
 #P2: Tournament Results
-13 July 2015
-=============
+
 Common code for the Relational Databases and Full Stack Fundamentals courses
 from Udacity.
 
-Project 2 additions by Kellen Proctor
+Project 2 additions by Kellen Proctor on 13 July 2015
 =============
+
 ####INTRODUCTION:
 Tournament Results contains a database schema with tables tp record players in
 a tournament, record matches between them, and two views for finding a win
