@@ -22,38 +22,43 @@ tournament_test.py - contains tests for python code
 Please clone to your most convenient directory (folder) via the following
 command:
 
+```
 git clone https://github.com/kellenproctor/tournament-results.git
+```
 
 ####REQUIREMENTS:
 [Vagrant](https://www.vagrantup.com/)
+
 [Virtual Box](https://www.virtualbox.org/)
 
 ####RUNNING:
 Please open a terminal, navigate to /vagrant, and run the following commands:
 
-1. *vagrant up*
-2. *vagrant ssh*
-3. *cd /vagrant/tournament*
+```
+vagrant up
+vagrant ssh
+cd /vagrant/tournament
+```
 
 This will get you into the tournament directory, where you can interact with
 the files as listed above. To initiate the tournament database,
 run the following command:
 
-'''
+```
 psql \i tournament.sql
-'''
+```
 
 Further, the **tourament_test.py** file is can be run by the following
 command:
 
-'''
+```
 ./tournament_test.py
-'''
+```
 
 Now enjoy interacting with the code!
 
-////////
-Enjoy your experience! All feedback is welcome!
+
+######Enjoy your experience! All feedback is welcome!
 
 A second stab at these, thanks to some help from Udacity and some resources
 from coach (unknown).
