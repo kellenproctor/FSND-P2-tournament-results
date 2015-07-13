@@ -44,7 +44,7 @@ the files as listed above. To initiate the tournament database,
 run the following command:
 
 ```
-psql \i tournament.sql
+psql -c "\i tournament.sql"
 ```
 
 Further, the **tourament_test.py** file is can be run by the following
