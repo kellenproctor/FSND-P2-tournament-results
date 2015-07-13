@@ -51,7 +51,7 @@ Further, the **tourament_test.py** file is can be run by the following
 command:
 
 ```
-./tournament_test.py
+python tournament_test.py
 ```
 
 Now enjoy interacting with the code!
